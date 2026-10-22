@@ -1,0 +1,4 @@
+interface:
+  display_name: "海外短剧英文推广文案"
+  short_description: "按客户参考风格生成高情绪英文短剧文案与中文对照，逐项审核并记录反馈"
+  default_prompt: "使用 $overseas-drama-copy 创作一篇符合参考风格的原创英文短剧推广文案，提供双语标题与正文，并在交付前检查英文、剧情和翻译。"
